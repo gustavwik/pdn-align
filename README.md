@@ -1,4 +1,4 @@
-# Align
+# Align Content
 
 A Paint.NET plugin that moves the contents of a layer to a position you
 choose. Center something on the canvas in one click instead of nudging it
